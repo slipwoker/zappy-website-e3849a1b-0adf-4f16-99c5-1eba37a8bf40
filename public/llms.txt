@@ -1,0 +1,70 @@
+# מסע בין כוכבים — Generative Engine Optimization Map
+
+> A website dedicated to the topic of space and the universe. The theme revolves around astronomy, cosmos, and space exploration. The brand identity is likely to be inspiring, vast, and awe-inspiring, evoking curiosity about the universe.
+
+---
+
+## Pages
+
+### בית
+https://-e3849a1b.zappy5.app
+צללו אל תוך מרחבי הקוסמוס האינסופיים עם תכנים מרתקים על אסטרונומיה, טלסקופ ג&#39;יימס ווב וחזיתות המדע. התחילו את המסע שלכם עוד היום!
+
+### תודה שפניתם אלינו
+https://-e3849a1b.zappy5.app/thank-you
+מסע בין כוכבים - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e3849a1b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e3849a1b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e3849a1b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-e3849a1b.zappy5.app
+- Endpoint: https://-e3849a1b.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מסע בין כוכבים
+A website dedicated to the topic of space and the universe. The theme revolves around astronomy, cosmos, and space exploration. The brand identity is likely to be inspiring, vast, and awe-inspiring, evoking curiosity about the universe.
+
+## Target Audience
+- חובבי אסטרונומיה
+- מקצועני טכנולוגיית חלל
+- מורים לחינוך מדעי
+
+## Industry
+Space / Astronomy
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-e3849a1b.zappy5.app/sitemap.xml
+- Robots: https://-e3849a1b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-e3849a1b.zappy5.app/llms-full.txt
